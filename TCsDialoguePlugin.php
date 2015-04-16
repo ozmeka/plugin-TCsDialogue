@@ -57,7 +57,7 @@ jQuery(function() {
 	}
 });
 	</script>
-	<div id='tcs_dialogue' style="display:none; z-index: 50; padding: 5; border: 1px solid #000; text-align: center; margin: 0 auto; background-color: #fff;">Caution:  May contain traces of nuts</div>
+	<div id='tcs_dialogue' style="display:none; z-index: 50; padding: 5; border: 1px solid #000; text-align: center; margin: 0 auto; background-color: #fff;">Please accept our terms to continue.</div>
 EOB;
 	}
 }
