@@ -20,8 +20,8 @@ class TCsDialoguePlugin extends Omeka_Plugin_AbstractPlugin
 		}
 	</style>
 	<script>
-jQuery(function() {
-
+jQuery(window).load(function()
+{
 	var tncs = jQuery.cookie('dharmae_tncs');
 	if (tncs == null)
 	{
