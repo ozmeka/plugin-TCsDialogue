@@ -1,5 +1,11 @@
 <?php
 
+/**
+ * Terms and Conditions Dialogue for Omeka
+ * @copyright Copyright 2015 eResearch at University of Technnology, Sydney
+ * @license http://www.gnu.org/licenses/gpl-3.0.txt GNU GPLv3
+ */
+
 class TCsDialoguePlugin extends Omeka_Plugin_AbstractPlugin
 {
 	protected $_hooks = array('public_head', 'public_header');
